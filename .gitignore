@@ -1,0 +1,16 @@
+
+.bsp/
+.sbt/
+target/
+project/project/
+project/target/
+
+
+.idea/
+*.iml
+*.iws
+*.ipr
+
+
+.DS_Store
+Thumbs.db
