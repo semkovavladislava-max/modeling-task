@@ -1,4 +1,5 @@
-
+course_repo/
+*.csv
 .bsp/
 .sbt/
 target/
